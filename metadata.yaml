@@ -1,5 +1,8 @@
 _repo: The-house-of-bondage_73115
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73115-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Kauffman, Reginald Wright
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '39468'
     url: http://www.gutenberg.org/2009/agents/39468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73115#The-house-of-bondage
 gutenberg_issued: '2024-03-06'
 gutenberg_type: Text
 identifiers:
